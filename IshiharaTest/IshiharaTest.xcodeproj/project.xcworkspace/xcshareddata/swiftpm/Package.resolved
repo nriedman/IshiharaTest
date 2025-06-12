@@ -1,0 +1,15 @@
+{
+  "originHash" : "148920f59500e344fef624469fc6e39e52178cb76496397b03f65c103898ae8c",
+  "pins" : [
+    {
+      "identity" : "svg2path",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Kyome22/SVG2Path.git",
+      "state" : {
+        "revision" : "9803aaf961bdc76ee590e3b5a332c2524121272b",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
