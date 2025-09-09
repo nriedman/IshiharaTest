@@ -29,7 +29,7 @@ struct IshiharaTestOnboardingView: View {
                     /// by Google in response to the following query:
                     ///     "ishihara test description"
                     ///
-                    Text("The following test will consist of a series of plates featuring a single digit between 0 and 9. Individuals with normal color vision can typically identify each digit, while those with color deficiency may see it differently or not at all.")
+                    Text("The following test will consist of a series of plates featuring a single digit between 0 and 9. Individuals without color vision deficiency can often identify each digit, while those with color vision deficiency may see it differently or not at all.")
                     
                     Text("This test is timed, and will have the following constraints:")
                 }
