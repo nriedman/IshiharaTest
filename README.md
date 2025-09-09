@@ -8,6 +8,10 @@ The Ishihara Test app implements digital versions of the classic Ishihara color 
 
 ### Features
 
+| ![home-screen](https://github.com/user-attachments/assets/7fdc5b09-8ed4-4607-a76e-3c164356927c) | ![red-green-plate](https://github.com/user-attachments/assets/bf2b099d-8be8-4d2c-8ca1-fa814cb7bdf5) | ![combined-results](https://github.com/user-attachments/assets/e72e2470-867f-4c33-b3b9-20086820021f) | ![individual-results](https://github.com/user-attachments/assets/b9243595-88c1-4e03-9aae-be07500edbb5) |
+|:--: | :--: | :--: | :--: |
+| Home Screen | Red-Green Plate | Combined Results | Individual Results |
+
 - **Multiple Test Types**: Red-Green, Blue-Yellow, and Monochromatic vision tests
 - **Timed Testing**: Configurable time limits per test plate
 - **Results Tracking**: Persistent storage of test results with SwiftData
